@@ -1,0 +1,47 @@
+[
+
+    {
+        "id":1,
+        "name":"Buldak",
+        "count":0,
+        "limit":7,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcVF5Nq8uQtdUgZkfEbmabHcF3Rgsvb6oD01Z0nsDiH857M_91g2VLtE&s=10"
+    },
+    {
+        "id":2,
+        "name":"Tteokbokki",
+        "count":0,
+        "limit":15,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqbexSnEkhjub3nQ_TyPl11GJwQD2Tucw1UAPq1Tmqw&s=10"
+    },
+    {
+        "id":3,
+        "name":"Kfc",
+        "count":0,
+        "limit":23,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LJYPfpPtfxz_aKo9y31nXpUjLkASq4rREwOr1w2c8vY-Y3fpqv3Plyo&s=10"
+    },
+
+    {
+        "id":4,
+        "name":"ChocolateMilk",
+        "count":0,
+        "limit":2,
+        "img":"https://static.toiimg.com/thumb/84170265.cms?imgsize=299797&width=800&height=800"
+    },
+    {
+        "id":5,
+        "name":"ChocolateCake",
+        "count":0,
+        "limit":123,
+        "img":"https://sallysbakingaddiction.com/wp-content/uploads/2013/04/triple-chocolate-cake-4.jpg"
+    },
+    {
+        "id":6,
+        "name":"Kimchi",
+        "count":0,
+        "limit":67,
+        "img":"https://mykoreankitchen.com/wp-content/uploads/2022/01/5.-Homemade-Kimchi.jpg"
+    }
+    
+]
